@@ -40,25 +40,31 @@ Screenshots
 
 Caption: Choose your favorite toppings from a variety of options.
 
-
 Caption: Watch your ice cream come to life with each topping you add.
 
-Contributing
+* Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-Fork the repository.
+* Fork the repository.
+
 Create your feature branch:
+
 bash
 Copy code
 git checkout -b feature/your-feature-name
+
 Commit your changes:
 bash
 Copy code
 git commit -m 'Add some feature'
+
 Push to the branch:
+
 bash
 Copy code
 git push origin feature/your-feature-name
+
 Open a pull request.
-License
+
+* License
 This project is licensed under the MIT License. See the LICENSE file for details.
