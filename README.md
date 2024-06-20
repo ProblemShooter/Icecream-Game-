@@ -55,3 +55,10 @@ Commit your changes:
 bash
 Copy code
 git commit -m 'Add some feature'
+Push to the branch:
+bash
+Copy code
+git push origin feature/your-feature-name
+Open a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
