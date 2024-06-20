@@ -45,3 +45,13 @@ Caption: Watch your ice cream come to life with each topping you add.
 
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+Fork the repository.
+Create your feature branch:
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m 'Add some feature'
