@@ -42,3 +42,8 @@ btnTopping1.addEventListener("click", () => {
     scoop1.style.backgroundImage = `radial-gradient(circle at 20px 18px, ${colors[counter4]} 25px, transparent 25px)`;
     counter4 = setCounterValue(counter4);
 });
+
+btnTopping2.addEventListener("click", () => {
+    scoop3.style.backgroundImage = `radial-gradient(circle at 12.5px 17px, ${colors[counter5]} 20px, transparent 21px)`;
+    counter5 = setCounterValue(counter5);
+});
